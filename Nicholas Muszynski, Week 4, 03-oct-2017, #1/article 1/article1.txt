@@ -1,0 +1,41 @@
+Effects of 3D Virtual Haptics Force Feedback
+on Brand Personality Perception:
+The Mediating Role of Physical Presence in Advergames
+
+
+Novint Falcon haptics system
+tested how sensory and cognitive dimensions are affected based on intensity of forced feedback settings
+
+tactile stimuli - feeling as if something is there
+cognitive dimension - acknowledging as if something is there
+
+users exposed to force feedback felt stronger physical presence than those in the no force feedback condition
+
+Haptics is defined as ‘the modality of touch and associated sensory feedback.’
+
+Physical presence refers to ‘‘a psychological state in which
+virtual physical objects are experienced as actual physical
+objects.’’4(p44) Physical presence occurs when technology users
+do not notice either the para-authentic or artificial nature of
+mediated objects, environments, or simulated objects.
+
+argument:
+People who are exposed to haptics stimuli with force
+feedback will feel stronger physical presence than those
+exposed to haptics stimuli without force feedback.
+
+it was also noted that the time they drove with feedback enabled led test users to believe that the brand of the car was more rugged than the car that they drove without the feedback.
+
+
+Participants in the haptics stimuli with force
+feedback condition test-drove the car using the Novint Falcon
+device, which was set up to produce force feedback. In order
+to maximize the effects of force feedback manipulation,
+terrain effects, acceleration, and lateral forces were set at the
+maximum level. In contrast, participants in the haptics stimuli
+without force feedback condition test-drove the car using
+the Novint Falcon device but were not given any force feedback
+stimuli.
+
+
+was determined that force-feedback had significant impacts on physical presence
