@@ -1,0 +1,24 @@
+Does Touch Matter?: The Effects of Haptic Visualization
+on Human Performance, Behavior and Perception
+
+haptic feedback is very useful for applications such as surgical simulation and other medical training, virtual prototyping, etc.
+
+HCI  -  Human-Computer Interaction
+
+7 articles were selected out of a pool of 18 after strict peer-review.
+
+"Scenario-Based Observation Approach for Eliciting User Requirements for Haptic User Interfaces"  -  reviewed current processes for requirements engineering, proposed a methodology which focused heavily on context of scenario, and a case study was done on the methodology with visually impaired students.
+
+"VITAKI: A Vibrotactile Prototyping Toolkit for Virtual Reality and Video Games"  -  a new toolkit which allows prototyping and testing procedures for new vibrotactile interaction techniques to be used in virtual reality and video games.
+
+"Haptics on a Touch Screen: Characterization of Perceptual Thresholds"  -  tested user sensitivity to varying wavelengths and intensities of vibration on a touch screen when they place their finger on it, to determine what yielded the most noticeable results.
+
+"The Effect of Vision on Discrimination of Compliance Using a Tool"  -  studied perception of compliance based on varying combinations of vision and haptics, such as direct vision, indirect via computer screen, or with haptics only. Visual information is shown to be critical in combination with haptics.
+
+"Use of Reference Frame and Movement Pattern in Haptically Enhanced 3D Virtual Environment"  -  researched what effect various factors had when visually impaired users would describe a mental map of an environment based on haptic feedback.
+
+"The Impact of Combining Kinesthetic and Facial Expression Displays on Emotion Recognition by Users"  -  determined how much importance haptics may be for recognizing emotions, but results appear to be mixed from one participant to the next.
+
+"Intermodal Audio-Haptic Metaphor: Improvement of Target Search in Abstract Environments"  -  Used both audio and haptics to review how well participants could search for targets within complex environments.
+
+conclusions  -  methodologies and techniques being developed for HCI can assist in theories and applications.
