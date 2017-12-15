@@ -1,0 +1,135 @@
+This is XeTeX, Version 3.14159265-2.6-0.99996 (MiKTeX 2.9) (preloaded format=xelatex 2016.11.5)  11 OCT 2017 00:22
+entering extended mode
+**./paper1final.tex
+(paper1final.tex
+LaTeX2e <2016/03/31> patch level 3
+Babel <3.9r> and hyphenation patterns for 75 language(s) loaded.
+("E:\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("E:\MiKTeX 2.9\tex\latex\base\size10.clo"
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (paper1final.aux)
+\openout1 = `paper1final.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--15
+\OT1/cmr/m/n/24.88 Treatment and Pre-ven-tion of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--15
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--15
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--15
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--21
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--21
+
+ []
+
+
+Underfull \hbox (badness 1221) in paragraph at lines 16--21
+\OT1/cmr/m/n/10 As Vir-tual Re-al-ity be-comes more pop-u-lar and ac-ces-si-ble as a form of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--21
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--21
+
+ []
+
+
+Underfull \hbox (badness 1127) in paragraph at lines 22--30
+\OT1/cmr/m/n/10 within the vir-tual en-vi-ron-ment, the vestibu-lar sys-tem does not reg-is-ter
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--30
+
+ []
+
+
+Underfull \hbox (badness 5331) in paragraph at lines 22--30
+\OT1/cmr/m/n/10 To gather more in-for-ma-tion, a study was done where users were
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--30
+
+ []
+
+
+Underfull \hbox (badness 2253) in paragraph at lines 22--30
+\OT1/cmr/m/n/10 While some stud-ies were be-ing per-formed to re-search fur-ther on the
+ []
+
+
+Underfull \hbox (badness 2261) in paragraph at lines 22--30
+\OT1/cmr/m/n/10 move-ment in-put by gamepad, hand ges-tures, and a marching-in-place
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--30
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--30
+
+ []
+
+[1
+
+] [2] [3] (paper1final.bbl) [4] (paper1final.aux) ) 
+Here is how much of TeX's memory you used:
+ 218 strings out of 428408
+ 2186 string characters out of 3163214
+ 73104 words of memory out of 3000000
+ 3694 multiletter control sequences out of 15000+200000
+ 5198 words of font info for 19 fonts, out of 3000000 for 9000
+ 1328 hyphenation exceptions out of 8191
+ 23i,4n,17p,1353b,130s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+Output written on paper1final.pdf (4 pages).
